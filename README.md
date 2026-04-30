@@ -35,4 +35,5 @@ I have hands-on experience in development, which helps me work effectively with 
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: (add your link)
+- LinkedIn: https://www.linkedin.com/in/shamil-shiraj
+- Gmail: shamilshiraj01@gmail.com 
