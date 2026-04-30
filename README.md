@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Shamil
 
-<!--
-**Shamil-Shiraj/Shamil-Shiraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Systems Undergraduate (UCSC)  
+📊 Aspiring Business Analyst / Project Manager  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+I enjoy understanding business problems and turning them into structured technical solutions.  
+I have hands-on experience in development, which helps me work effectively with technical teams.
+
+---
+
+## 🧠 Interests
+- Business Analysis & Systems Design  
+- Project Management  
+- Web & Mobile Development  
+- Cybersecurity & Networking (personal interest)  
+
+---
+
+## 🛠️ Tech Exposure
+- HTML, CSS, PHP  
+- Kotlin  
+- MySQL  
+- Git & GitHub  
+
+---
+
+## 🚀 Projects
+- **Fitverse** – Gym Management System (Group Project)  
+- **Kotlin Text Editor App**  
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: (add your link)
