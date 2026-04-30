@@ -28,9 +28,9 @@ I have hands-on experience in development, which helps me work effectively with 
 ---
 
 ## 🚀 Projects
-- **Fitverse** – Gym Management System (Group Project)
-- **Stock Mate** - Stock Management System (Group Project)
-- **Kotlin Text Editor App**  
+- **Fitverse** – Gym Management System 
+- **Stock Mate** - Stock Management System 
+- **Kotlin Text Editor App** - Basic Text Editor App  
 
 ---
 
