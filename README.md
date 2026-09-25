@@ -4,7 +4,7 @@
 
 I'm a final-year **Information Systems undergraduate at the University of Colombo School of Computing (UCSC)** with an interest in **Business Analysis, Project Management, and Technology**.
 
-I enjoy working at the intersection of **business and technology** — understanding problems, collaborating with stakeholders, and turning requirements into practical digital solutions.
+I enjoy working at the intersection of **business and technology** - understanding problems, collaborating with stakeholders, and turning requirements into practical digital solutions.
 
 ---
 
@@ -26,17 +26,17 @@ I enjoy working at the intersection of **business and technology** — understan
 
 ### 🚀 Projects
 
-**FitVerse 2.0** — Gym Management System
-PHP · MySQL · JavaScript
 
-**Winter Shop** — E-commerce Platform
+
+**Winter Shop** - E-commerce Platform
 Laravel · PHP · MySQL · PayHere
 
-**Nurture Nest** — Client NGO Website
+**Nurture Nest** - Client NGO Website
 Next.js · Sanity · Resend · Vercel
 
-**Muslim Majlis** — Web Platform
-Next.js · Tailwind CSS · Sanity
+**FitVerse 2.0** - Gym Management System
+PHP · MySQL · JavaScript
+
 
 > Some projects are private/client projects and therefore aren't publicly available.
 
