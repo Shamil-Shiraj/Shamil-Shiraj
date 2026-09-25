@@ -44,10 +44,8 @@ PHP · MySQL · JavaScript
 
 ### 👨‍💼 Leadership
 
-**President — Rotaract Club of UCSC**
+**President - Rotaract Club of UCSC**
 *RI Year 2026–2027*
-
-*Empowering Future Leaders. Elevating Communities. Evolving for Lasting Impact.*
 
 ---
 
