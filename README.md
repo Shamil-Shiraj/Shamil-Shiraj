@@ -1,4 +1,4 @@
-# Hey, I'm Shamil 👋
+# Hey, I'm Shamil 
 
 ### Information Systems Undergraduate · Aspiring Business Analyst
 
